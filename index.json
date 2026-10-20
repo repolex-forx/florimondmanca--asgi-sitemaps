@@ -1,0 +1,11 @@
+{
+  "org": "florimondmanca",
+  "repo": "asgi-sitemaps",
+  "versions": [
+    {
+      "commit": "009b0f04ef4bca29bcfb8304411b27b9b2bda64e",
+      "tag": "1.0.0",
+      "parsed_at": "2026-10-20T22:03:53.370584+00:00"
+    }
+  ]
+}
