@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/florimondmanca/asgi-sitemaps/commit/009b0f04ef4bca29bcfb8304411b27b9b2bda64e",
       "git:hexsha": "009b0f04ef4bca29bcfb8304411b27b9b2bda64e",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.0.0"
     },
     {
